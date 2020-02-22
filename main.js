@@ -12,8 +12,8 @@
     'use strict';
 
     // Your code here...
-    document.getElementById('ft_un').value = "nee_606";
-    document.getElementById('ft_pd').value = "EH9P64fW";
+    document.getElementById('ft_un').value = "account";
+    document.getElementById('ft_pd').value = "pwd";
     console.log("working");
     document.getElementsByTagName('input')[5].click();
 
